@@ -1,0 +1,8 @@
+Estudiando Git ( es un local)
+
+git add. ( para subir)
+
+git status ( para ver si ya guardo)
+
+git commint -m "ho" (guarda)
+
